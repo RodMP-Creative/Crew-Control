@@ -13,7 +13,7 @@
 Crew control is a command-line interface application that allows the user ti manage employee information within an organization. The applications allows for users to view and manage employees, roles, departments, and managers. PostgreSQL is used for the database along with Node.js, making a simple interface to interact with the database in order to manage the organization's structure and personnel.
 
 ## Installation
-Before starting the following instructions, make sure you have Node.js and PostgreSQL installed. You can download it from the following link [Node.js](https://nodejs.org/) [PostgreSQL](https://www.postgresql.org/).<br><br>1.Clone the repository to your local machine: git clone https://github.com/RodMP-Creative/craft-my-car.git<br><br>2.Navigate to your local repository using the command line: cd your-local-repository<br><br>3.Install the required npm package: npm install
+Before starting the following instructions, make sure you have Node.js and PostgreSQL installed. You can download it from the following link [Node.js](https://nodejs.org/)  [PostgreSQL](https://www.postgresql.org/).<br><br>1.Clone the repository to your local machine: git clone https://github.com/RodMP-Creative/crew-control.git<br><br>2.Navigate to your local repository using the command line: cd your-local-repository<br><br>3.Install the required npm package: npm install
 
 ## Usage
 1.Build the project: npm run build<br><br>2.Start the CLI application: npm start
