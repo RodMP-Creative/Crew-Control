@@ -18,6 +18,7 @@ Before starting the following instructions, make sure you have Node.js and Postg
 ## Usage
 1.Build the project: npm run build<br><br>2.Start the CLI application: npm start
 <br><br>3.Follow the prompts that come up to manage employees.
+[Video Demo](https://drive.google.com/file/d/1LLkkyk_3sbURlt6lrsJtnkfgsD-6cGJw/view?usp=sharing)
 
 ## Contributing
 For contributions, please follow these steps:<br><br>1.Create a forked repository through GitHub.<br><br>2.Make changes and additions to the codebase as necessary.<br><br>3.Commit your changes using clear and descriptive commit messages.<br><br>4.Push your changes to the forked repository.<br><br>5.Create a Pull Request from your forked repository to the original repository. Make sure to provide detailed information about your changes.<br><br>6.The review process will commence to determine any questions, feedback, and necessary changes.<br><br>7.Once the Pull Request is approved, it will be merged into the main branch.
